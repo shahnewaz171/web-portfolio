@@ -1,0 +1,28 @@
+@media only screen and (max-width: 767px){
+    .top-banner h1{
+        font-size: 26px;
+    }
+    h3{
+        font-size: 16px;
+    }
+    p{
+        font-size: 10px;
+    }
+    .res-position h2{
+        font-size: 26px;
+    }
+    .link-button{
+        padding: 6px 5px;
+    }
+    .experience-area h2{
+        font-size: 24px;
+    }
+}
+@media only screen and (max-width: 500px){
+    .half-width img{
+        margin-top: 125px;
+    }
+    section{
+        height: 435px;
+    }
+}
